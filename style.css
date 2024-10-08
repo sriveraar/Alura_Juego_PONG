@@ -1,0 +1,10 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* Esto evitará las barras de desplazamiento */
+}
+
+canvas {
+    display: block;
+    color: #b8860b;
+}
